@@ -1,0 +1,6 @@
+Es una practica
+
+¡Hola mundo en py! 
+Este mensaje cambia 
+es el mismo archivo pero modificado en diferente rama
+
